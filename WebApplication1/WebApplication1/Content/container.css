@@ -1,0 +1,21 @@
+﻿.container {
+    display: flex;
+}
+.geolocation-container {
+    float: left;
+    width: 600px;
+    height: 600px;
+    border-radius: 50px;
+    font-family: 25px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+.geolocation-container2 {
+    float: right;
+    width: 900px;
+    height: 900px;
+    border-radius: 50px;
+    font-family: 25px;
+    margin-left: 40px;
+    margin-top: 50px;
+}

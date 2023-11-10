@@ -1,0 +1,20 @@
+﻿
+@font-face {
+    font-family: "MyCustomFont2";
+    src: url("https://fd.aigei.com/src/fil/otf/61/616b212e466c48d3ada8653c7424fcb5.otf?download/Penumbra%E5%AD%97%E4%BD%93_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com.otf&e=1698268020&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:xaif3eVaeYaBr9sMj_K7Gg8X-Ds=");
+}
+
+.contact-info {
+    background-color:purple;
+    font-size: 18px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    color: white;
+    margin-top: 200px;
+    font-family: 'MyCustomFont2', sans-serif;
+
+}
+.contact-info a {
+    color: black; /* 设置链接颜色 */
+    text-decoration: none; /* 取消链接下划线 */
+}

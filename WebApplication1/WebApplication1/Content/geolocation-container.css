@@ -1,0 +1,9 @@
+﻿.geolocation-container {
+    float: left;
+    width: 600px;
+    height: 600px;
+    border-radius: 50px;
+    font-family: 25px;
+    margin-right: 40px;
+    margin-top: 50px;
+}

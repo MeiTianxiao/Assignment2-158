@@ -1,0 +1,3 @@
+﻿<connectionStrings>
+	<add name="BasicMVCProjectContext" connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=BasicMVCProjectContext-20220910231737;Integrated Security=True;MultipleActiveResultSets=True;AttachDbFilename=|DataDirectory|BasicMVCProjectContext-20220910231737.mdf" providerName="System.Data.SqlClient"/>
+</connectionStrings>

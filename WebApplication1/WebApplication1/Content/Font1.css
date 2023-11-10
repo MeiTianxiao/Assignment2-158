@@ -1,0 +1,11 @@
+﻿
+@font-face {
+    font-family: "MyCustomFont";
+    src: url("https://fd.aigei.com/src/fil/otf/c4/c49993728ac8440784e756936d1104ae.otf?download/A+Galega%E5%AD%97%E4%BD%93_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com.otf&e=1698258000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:6gXRsC9tddK6v8Jp55tHJQq-OYo=");
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}

@@ -1,0 +1,11 @@
+﻿.white-border {
+    border: 2px solid purple;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 200px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+}
